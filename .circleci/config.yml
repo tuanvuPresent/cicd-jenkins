@@ -5,10 +5,6 @@ jobs:
     working_directory: ~/circleci-python
     docker:
       - image: "circleci/python:3.6.4"
-    filters:
-      branches:
-      only:
-        - master
     steps:
       - checkout
       - run: python3 main.py
@@ -17,3 +13,7 @@ workflows:
   build:
     jobs:
       - build
+          filters:
+            branches:
+              only:
+                - master
