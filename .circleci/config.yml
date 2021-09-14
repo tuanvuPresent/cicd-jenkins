@@ -10,6 +10,6 @@ jobs:
       - run: python3 main.py
 
 workflows:
-  build_and_test:
+  build:
     jobs:
       - build
