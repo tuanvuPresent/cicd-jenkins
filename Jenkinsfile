@@ -19,7 +19,7 @@ pipeline {
     }
     post {
         always {
-            dir("${env.WORKSPACE}checkin@tmp") {
+            dir("${env.WORKSPACE}cicd-jenkins@tmp") {
                 deleteDir()
             }
         }
