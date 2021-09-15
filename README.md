@@ -36,3 +36,11 @@ services:
       - /usr/bin/docker:/usr/bin/docker
       - /usr/local/bin/docker-compose:/usr/local/bin/docker-compose
 ```
+### Create the docker group if it does not exist
+```
+sudo groupadd docker
+```
+### Add your user to the docker group.
+```
+sudo usermod -aG docker $USER
+```
