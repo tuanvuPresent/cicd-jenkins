@@ -32,11 +32,6 @@ https://hub.docker.com/_/jenkins?tab=description&page=1&ordering=last_updated
 ```
 docker run -d --restart=always -p 8080:8080   -v /var/run/docker.sock:/var/run/docker.sock    -v $(which docker):$(which docker)     -v jenkins_home:/var/jenkins_home  -v  /usr/local/bin/docker-compose:/usr/local/bin/docker-compose    --user 1000:1000  --name jenkins-server jenkins/jenkins:lts
 ```
-
-# Create github-Webhooks
-
-Settings ---> Webhooks
-
 ### install by docker-compose
 
 ```
@@ -56,3 +51,7 @@ services:
       - /usr/bin/docker:/usr/bin/docker
       - /usr/local/bin/docker-compose:/usr/local/bin/docker-compose
 ```
+
+# Create github-Webhooks
+
+Settings ---> Webhooks
