@@ -89,5 +89,14 @@ services:
 
 ---
 
-- Setup webhook github
+### Setup webhook github
+
+- Vào settings -> webhook 
+
+![2022-07-02_192744](https://user-images.githubusercontent.com/55792941/177000854-f0b6f8c6-1d8f-490c-b42d-d3d09d3f6724.jpg)
+
+![2022-07-02_192938](https://user-images.githubusercontent.com/55792941/177000859-d3100915-b17c-486e-9853-4c5e8fca81fe.jpg)
+
+
+
 
