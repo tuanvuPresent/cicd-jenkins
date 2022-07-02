@@ -1,4 +1,4 @@
-# Install docker and docker-compose
+## Install docker and docker-compose
 ```
 sudo apt-get update
 ```
