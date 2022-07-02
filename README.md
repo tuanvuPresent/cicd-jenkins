@@ -65,19 +65,23 @@ Settings ---> Webhooks
 ![2022-07-02_185607](https://user-images.githubusercontent.com/55792941/176999740-59ab49ac-e1c8-4090-8f46-fc8ab82b0148.jpg)
 
 - Tạo new project 
-![2022-07-02_190017](https://user-images.githubusercontent.com/55792941/177000255-4dc33e6c-80a5-46cd-8919-9be2dac5b132.jpg)
-- setup repo manager 
+
+![2022-07-02_191743](https://user-images.githubusercontent.com/55792941/177000487-eed1059d-2365-4f38-b82d-b70f869f097d.jpg)
 
 
-![2022-07-02_190216](https://user-images.githubusercontent.com/55792941/177000270-2923286b-49b2-4a13-aa2d-7fc1a8a3d00d.jpg)
+- Setup repo manager 
 
-![2022-07-02_190451](https://user-images.githubusercontent.com/55792941/177000272-8e6f9da4-91ce-4e42-b00c-9370d9e500da.jpg)
-
-
-- setup triger
-![2022-07-02_190546](https://user-images.githubusercontent.com/55792941/177000287-db823d8f-7d25-407e-b764-b3bfff026626.jpg)
+![2022-07-02_191812](https://user-images.githubusercontent.com/55792941/177000492-20dcd479-80fb-4e4d-911a-165ac7546c52.jpg)
 
 
+- Setup triger
+
+![2022-07-02_191826](https://user-images.githubusercontent.com/55792941/177000500-1b587736-c65a-4479-aed0-28363908da8d.jpg)
+
+
+- Pipeline
+
+![2022-07-02_191838](https://user-images.githubusercontent.com/55792941/177000502-97cfb44e-df16-4171-8841-6017794b4655.jpg)
 
 
 
