@@ -55,10 +55,6 @@ services:
       - /usr/local/bin/docker-compose:/usr/local/bin/docker-compose
 ```
 
-# Create github-Webhooks
-
-Settings ---> Webhooks
-
 ### Hướng dẫn setup jenkins
 - Get key
 
@@ -83,5 +79,7 @@ Settings ---> Webhooks
 
 ![2022-07-02_191838](https://user-images.githubusercontent.com/55792941/177000502-97cfb44e-df16-4171-8841-6017794b4655.jpg)
 
+---
 
+- Setup webhook github
 
