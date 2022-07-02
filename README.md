@@ -37,7 +37,7 @@ docker run -d --restart=always -p 8080:8080   -v /var/run/docker.sock:/var/run/d
 ```
 ### install by docker-compose
 
-```
+```yaml
 version: '3.7'
 services:
   jenkins:
@@ -58,3 +58,7 @@ services:
 # Create github-Webhooks
 
 Settings ---> Webhooks
+
+### Hướng dẫn setup jenkins
+![2022-07-02_185607](https://user-images.githubusercontent.com/55792941/176999740-59ab49ac-e1c8-4090-8f46-fc8ab82b0148.jpg)
+
