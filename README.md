@@ -55,6 +55,8 @@ services:
       - /usr/local/bin/docker-compose:/usr/local/bin/docker-compose
 ```
 
+---
+
 ### Hướng dẫn setup jenkins
 - Get key
 
