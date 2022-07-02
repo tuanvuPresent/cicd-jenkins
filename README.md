@@ -60,5 +60,19 @@ services:
 Settings ---> Webhooks
 
 ### Hướng dẫn setup jenkins
+- Get key
+
 ![2022-07-02_185607](https://user-images.githubusercontent.com/55792941/176999740-59ab49ac-e1c8-4090-8f46-fc8ab82b0148.jpg)
+
+- Tạo new project 
+![2022-07-02_190017](https://user-images.githubusercontent.com/55792941/177000255-4dc33e6c-80a5-46cd-8919-9be2dac5b132.jpg)
+- setup repo manager 
+![2022-07-02_190216](https://user-images.githubusercontent.com/55792941/177000270-2923286b-49b2-4a13-aa2d-7fc1a8a3d0![2022-07-02_190451](https://user-images.githubusercontent.com/55792941/177000272-8e6f9da4-91ce-4e42-b00c-9370d9e500da.jpg)
+0d.jpg)
+- setup triger
+![2022-07-02_190546](https://user-images.githubusercontent.com/55792941/177000287-db823d8f-7d25-407e-b764-b3bfff026626.jpg)
+
+
+
+
 
