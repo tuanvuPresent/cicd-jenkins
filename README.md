@@ -100,3 +100,6 @@ services:
 
 ![2022-07-02_192938](https://user-images.githubusercontent.com/55792941/177000859-d3100915-b17c-486e-9853-4c5e8fca81fe.jpg)
 
+- Lưu ý url là 
+url của jenkins + /github-webhook/
+VD:  https://8080-tuanvuprese-cicdjenkins-psx08fn83vn.ws-us47.gitpod.io/github-webhook/
