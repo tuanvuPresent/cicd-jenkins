@@ -77,7 +77,10 @@ services:
 
 - Pipeline
 
-![2022-07-02_191838](https://user-images.githubusercontent.com/55792941/177000502-97cfb44e-df16-4171-8841-6017794b4655.jpg)
+![2022-07-02_192453](https://user-images.githubusercontent.com/55792941/177000699-7e2ee42a-0747-4825-9cb4-667aff298eec.jpg)
+
+![2022-07-02_192506](https://user-images.githubusercontent.com/55792941/177000703-1e4c059b-0058-414d-81fc-833734b50018.jpg)
+
 
 ---
 
