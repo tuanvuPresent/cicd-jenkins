@@ -33,14 +33,7 @@ docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /va
 
 https://hub.docker.com/_/jenkins?tab=description&page=1&ordering=last_updated
 ```
-docker run -d --restart=always -p 8080:8080   
---privileged
--v /var/run/docker.sock:/var/run/docker.sock    
--v $(which docker):$(which docker)     
--v jenkins_home:/var/jenkins_home  
--v  /usr/local/bin/docker-compose:/usr/local/bin/docker-compose    
---user 1000:1000  
---name jenkins-server jenkins/jenkins:lts
+docker run -d --restart=always -p 8082:8080 --privileged -v /var/run/docker.sock:/var/run/docker.sock -v $(which docker):$(which docker) -v jenkins_home:/var/jenkins_home -v  /usr/local/bin/docker-compose:/usr/local/bin/docker-compose --user root:root --name jenkins-server4 jenkins/jenkins:lts
 ```
 
 ### install by docker-compose
